@@ -1,0 +1,2237 @@
+<html>
+
+<head>
+  <title>BLACK RUSSIA - Играй в Россию на своем телефоне</title>
+  <link rel="canonical" href="https://blackrussia.online/" />
+  <meta charset=utf-8>
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width, user-scalable=1.0">
+  <link rel="stylesheet" media="screen" href="/css/style.css?v=45">
+  <link href="/css/lightbox.min.css?v=2" rel="stylesheet">
+  <link href="/css/lity.css?v=2" rel="stylesheet">
+  <link href="/css/responsive.css?v=7" rel="stylesheet">
+  <meta name="enot" content="7561627413534QK0qiX5igjUjUk8YZPwS1uK8G29LOIU9" />
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="BLACK RUSSIA - Играй в Россию на своем телефоне">
+  <meta property="og:description" content="Начни играть в Россию на своем телефоне">
+  <meta property="og:image" content="/img/screenshot.png">
+  <meta property="og:url" content="/">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+
+  <meta name="description" content="Начни играть в РОССИЮ прямо в своем телефоне">
+  <meta name="keywords" content="гта россия, crmp android, гта андроид, blackrussia скачать, крмп на телефон">
+  <link rel="icon" href="img/favicon.ico">
+
+  <!-- Analytics -->
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+  (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(64399777, "init", {
+      clickmap:true,
+      trackLinks:true,
+      accurateTrackBounce:true,
+      webvisor:true
+  });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/64399777" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+  <script>
+    !function (w, d, t) {
+        w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+
+        ttq.load('CIN6V1JC77UBI1EHRAAG');
+        ttq.page();
+    }(window, document, 'ttq');
+</script>
+</head>
+
+<body>
+  <header>
+  <div class="container">
+    <div class="head_container">
+      <a href="/" class="logo">
+        <img src="/img/logo.png" alt="">
+        <p> BLACK <span>RUSSIA</span> </p>
+      </a>
+      <div class="mobile_menu"><span></span></div>
+      <nav class="menu">
+        <ul>
+          <li><a href="/?">ГЛАВНАЯ</a></li>
+          <li><a href="/donate.php">ДОНАТ</a></li>
+          <li><a href="/play.php?">ИГРАТЬ</a></li>
+          <li><a href="https://forum.blackrussia.online/" target="_blank">ФОРУМ</a></li>
+        </ul>
+        <div class="head_soc">
+          <a href="https://vk.com/blackrussia.online" target="_blank"><img src="/img/soc1.svg" alt="Мы ВКонтакте"></a>
+          <a href="https://discord.gg/xPPAA4rAAd" target="_blank"><img src="/img/soc2.svg" alt="Наш Discord"></a>
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+  <!-- ********************* -->
+  <!-- *** ГЛАВНЫЙ БАНЕР *** -->
+  <!-- ********************* -->
+
+  <section class="baner">
+    <div class="container">
+      <div class="baner_container">
+        <div class="baner_left">
+          <h1>
+            Играй в Россию <br>
+            на своем смартфоне на <br>
+            проекте <span>BLACK RUSSIA</span>
+          </h1>
+          <p>
+            Мечтаешь сыграть в CRMP на своем телефоне? <br>
+            Это возможно на нашем проекте: полная карта, продуманный <br>
+            игровой мод, уникальный модпак с русскими и зарубежными<br>
+            авто, и многое другое ждет тебя на нашем проекте.
+          </p>
+          <div class="baner_btns ">
+            <a href="/play.php?" class="baner_btn1">НАЧАТЬ ИГРАТЬ</a>
+            <a class="baner_btn2" href="//youtu.be/Rcrn1ZSITQQ" data-lity="">СМОТРЕТЬ ПРОМО</a>
+
+          </div>
+        </div>
+        <div class="baner_right">
+          <img src="/img/boys.png?v=2" alt="">
+          <img class="mob" src="/img/boys2.png?v=2" alt="">
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ************************** -->
+  <!-- *** СЕКЦИЯ "ПОЧЕМУ МЫ" *** -->
+  <!-- ************************** -->
+
+  <section class="why">
+    <div class="container">
+      <h2>Почему нужно играть<br>
+        на <span>BLACK RUSSIA</span>
+      </h2>
+      <div class="why_container">
+        <div class="why_item">
+          <div class="why_img">
+            <img src="/img/w1.png" alt="">
+          </div>
+          <div class="why_text">
+            <h3>
+              <span>Лучшие</span> интерьеры <br>
+              и наружный маппинг
+            </h3>
+            <p>
+              Каждый интерьер выполнен эксклюзивно для нашего проекта и отлично
+              оптимизирован под мобильные устройства. Мы стараемся сохранять
+              баланс между качеством и производительностью, для нас это
+              действительно важно.
+            </p>
+          </div>
+        </div>
+        <div class="why_item">
+          <div class="why_text">
+            <h3>
+              <span>Огромный</span> выбор авто <br>
+              и тюнинга на любой вкус
+            </h3>
+            <p>
+              На нашем проекте ты не только сможешь приобрести любой автомобиль
+              на свой вкус, но и затюнинговать его просто до неузнаваемости.
+              Тонировка, неоновая подсветка, винилы, цвет фар, размер дисков и
+              даже уровень занижения подвески — все это есть на BLACK RUSSIA и
+              доступно каждому.
+            </p>
+          </div>
+          <div class="why_img">
+            <img src="/img/w2.png" alt="">
+          </div>
+        </div>
+        <div class="why_item">
+          <div class="why_img">
+            <img src="/img/w3.png" alt="">
+          </div>
+          <div class="why_text">
+            <h3>
+              <span>Собственные</span> скины на <br>
+              любой вкус и цвет
+            </h3>
+            <p>
+              Опасный бандит, врач, сотрудник ДПС, или быть может просто
+              доставщик пиццы? У нас есть скины под любую роль, каждый из
+              которых выполнен на высочайшем уровне и практически не отличим от
+              скинов ПК версии.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ******************************* -->
+  <!-- *** СЕКЦИЯ "СКРИНЫ И ВИДЕО" *** -->
+  <!-- ******************************* -->
+
+  <section class="media">
+    <div class="container">
+      <h2>
+        Посмотри сам <br>
+        на <span>все что у нас есть</span>
+      </h2>
+      <div class="media_container">
+        <a class="media_video" href="//youtu.be/Lv5odWmsX5w" data-lity="">
+          <div class="cyc_video  video_wrapper video_wrapper_full js-videoWrapper">
+          </div>
+          <div class="playpause"> </div>
+        </a>
+        <div id="index-media-banners" class="media_img">
+          <a href="/img/banners_black2_01.jpg" data-lightbox="example-set" class="hide-above-550px">
+            <img src="/img/banners_black2_mini_01.jpg" alt="">
+          </a>
+          <a href="/img/banners_black2_02.jpg" data-lightbox="example-set" class="hide-above-550px">
+            <img src="/img/banners_black2_mini_02.jpg" alt="">
+          </a>
+          <a href="/img/banners_black2_03.jpg" data-lightbox="example-set" class="hide-above-550px">
+            <img src="/img/banners_black2_mini_03.jpg" alt="">
+          </a>
+          <a href="/img/banners_black2_04.jpg" data-lightbox="example-set" class="hide-above-550px">
+            <img src="/img/banners_black2_mini_04.jpg" alt="">
+          </a>
+          <a href="/img/screen_001.jpg" data-lightbox="example-set" class="hide-under-550px">
+            <img src="/img/screen_mini_001.jpg" alt="">
+          </a>
+          <a href="/img/screen_002.jpg" data-lightbox="example-set" class="hide-under-550px">
+            <img src="/img/screen_mini_002.jpg" alt="">
+          </a>
+          <a href="/img/screen_003.jpg" data-lightbox="example-set" class="hide-under-550px">
+            <img src="/img/screen_mini_003.jpg" alt="">
+          </a>
+          <a href="/img/screen_004.jpg" data-lightbox="example-set" class="hide-under-550px">
+            <img src="/img/screen_mini_004.jpg" alt="">
+          </a>
+        </div>
+        <div id="index-media-screens" class="media_img2">
+          <a href="/img/screen_005.jpg" data-lightbox="example-set" class="hide-under-550px">
+            <img src="/img/screen_mini_005.jpg" alt="">
+          </a>
+          <a href="/img/screen_006.jpg" data-lightbox="example-set" class="hide-under-550px">
+            <img src="/img/screen_mini_006.jpg" alt="">
+          </a>
+          <a href="/img/screen_007.jpg" data-lightbox="example-set" class="hide-under-550px">
+            <img src="/img/screen_mini_007.jpg" alt="">
+          </a>
+          <a href="/img/screen_008.jpg" data-lightbox="example-set" class="hide-under-550px">
+            <img src="/img/screen_mini_008.jpg" alt="">
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ******************************* -->
+  <!-- *** СЕКЦИЯ "СКАЧАЙ ЛАУНЧЕР" *** -->
+  <!-- ******************************* -->
+
+  <section class="download">
+    <div class="container">
+      <div class="download_container">
+        <div class="download_img">
+          <img src="/img/down_new.png" alt="">
+        </div>
+        <div class="download_text">
+          <h2>
+            Скачай <br>
+            наш <span>лаунчер</span> <br>
+            и начни играть!
+          </h2>
+          <p>
+            Играть на нашем проекте очень просто. Достаточно скачать наш
+            лаунчер, который сам установит все необходимые компоненты игры.
+            Останется только ввести свой игровой ник и нажать на кнопку
+            "Играть".
+          </p>
+          <a class="launcher-download-link " href="https://blackrussia.online/play.php">
+            СКАЧАТЬ ЛАУНЧЕР
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ******************************************** -->
+  <!-- *** СЕКЦИЯ "МОНИТОРИНГ ИГРОВЫХ СЕРВЕРОВ" *** -->
+  <!-- ******************************************** -->
+
+  <section class="stat">
+    <div class="container">
+
+      <h2>Выбери свой<br>
+        <span>сервер</span>
+      </h2>
+
+      <div class="stat_container">
+    <div id="stat_item_1" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FF0000 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FF0000;">
+            #1 RED
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FF0000 0%, #212121 100%);
+          width: 85%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">1105</span>/1300
+      </div>
+    </div>    <div id="stat_item_2" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #00FF00 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #00FF00;">
+            #2 GREEN
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #00FF00 0%, #212121 100%);
+          width: 65.692307692308%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">854</span>/1300
+      </div>
+    </div>    <div id="stat_item_3" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #2D57EC 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #2D57EC;">
+            #3 BLUE
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #2D57EC 0%, #212121 100%);
+          width: 68.769230769231%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">894</span>/1300
+      </div>
+    </div>    <div id="stat_item_4" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FFFF00 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FFFF00;">
+            #4 YELLOW
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FFFF00 0%, #212121 100%);
+          width: 61.615384615385%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">801</span>/1300
+      </div>
+    </div>    <div id="stat_item_5" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FFA500 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FFA500;">
+            #5 ORANGE
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FFA500 0%, #212121 100%);
+          width: 67.076923076923%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">872</span>/1300
+      </div>
+    </div>    <div id="stat_item_6" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #800080 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #800080;">
+            #6 PURPLE
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #800080 0%, #212121 100%);
+          width: 75.230769230769%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">978</span>/1300
+      </div>
+    </div>    <div id="stat_item_7" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #ccff00 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #ccff00;">
+            #7 LIME
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #ccff00 0%, #212121 100%);
+          width: 63.153846153846%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">821</span>/1300
+      </div>
+    </div>    <div id="stat_item_8" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FF69B4 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FF69B4;">
+            #8 PINK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FF69B4 0%, #212121 100%);
+          width: 68.846153846154%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">895</span>/1300
+      </div>
+    </div>    <div id="stat_item_9" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #790604 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #790604;">
+            #9 CHERRY
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #790604 0%, #212121 100%);
+          width: 68%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">884</span>/1300
+      </div>
+    </div>    <div id="stat_item_10" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #33393D 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #33393D;">
+            #10 BLACK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #33393D 0%, #212121 100%);
+          width: 72.692307692308%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">945</span>/1300
+      </div>
+    </div>    <div id="stat_item_11" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #4B0082 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #4B0082;">
+            #11 INDIGO
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #4B0082 0%, #212121 100%);
+          width: 61.538461538462%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">800</span>/1300
+      </div>
+    </div>    <div id="stat_item_12" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FFFFFF 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FFFFFF;">
+            #12 WHITE
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FFFFFF 0%, #212121 100%);
+          width: 65.384615384615%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">850</span>/1300
+      </div>
+    </div>    <div id="stat_item_13" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #C406C4 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #C406C4;">
+            #13 MAGENTA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #C406C4 0%, #212121 100%);
+          width: 59.384615384615%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">772</span>/1300
+      </div>
+    </div>    <div id="stat_item_14" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #D9133B 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #D9133B;">
+            #14 CRIMSON
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #D9133B 0%, #212121 100%);
+          width: 66.384615384615%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">863</span>/1300
+      </div>
+    </div>    <div id="stat_item_15" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #F1B61F 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #F1B61F;">
+            #15 GOLD
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #F1B61F 0%, #212121 100%);
+          width: 68.846153846154%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">895</span>/1300
+      </div>
+    </div>    <div id="stat_item_16" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #3097FF 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #3097FF;">
+            #16 AZURE
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #3097FF 0%, #212121 100%);
+          width: 55.769230769231%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">725</span>/1300
+      </div>
+    </div>    <div id="stat_item_17" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #868480 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #868480;">
+            #17 PLATINUM
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #868480 0%, #212121 100%);
+          width: 60.384615384615%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">785</span>/1300
+      </div>
+    </div>    <div id="stat_item_18" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #0DEDED 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #0DEDED;">
+            #18 AQUA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #0DEDED 0%, #212121 100%);
+          width: 55.846153846154%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">726</span>/1300
+      </div>
+    </div>    <div id="stat_item_19" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #C7C2C1 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #C7C2C1;">
+            #19 GRAY
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #C7C2C1 0%, #212121 100%);
+          width: 62.230769230769%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">809</span>/1300
+      </div>
+    </div>    <div id="stat_item_20" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #B6F1FE 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #B6F1FE;">
+            #20 ICE
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #B6F1FE 0%, #212121 100%);
+          width: 60.307692307692%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">784</span>/1300
+      </div>
+    </div>    <div id="stat_item_21" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FE2726 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FE2726;">
+            #21 CHILLI
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FE2726 0%, #212121 100%);
+          width: 64.538461538462%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">839</span>/1300
+      </div>
+    </div>    <div id="stat_item_22" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #BF835C 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #BF835C;">
+            #22 CHOCO
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #BF835C 0%, #212121 100%);
+          width: 58.230769230769%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">757</span>/1300
+      </div>
+    </div>    <div id="stat_item_23" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FF2B3B 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FF2B3B;">
+            #23 MOSCOW
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FF2B3B 0%, #212121 100%);
+          width: 84%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">1092</span>/1300
+      </div>
+    </div>    <div id="stat_item_24" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #11A6FA 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #11A6FA;">
+            #24 SPB
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #11A6FA 0%, #212121 100%);
+          width: 67.846153846154%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">882</span>/1300
+      </div>
+    </div>    <div id="stat_item_25" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FFBA08 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FFBA08;">
+            #25 UFA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FFBA08 0%, #212121 100%);
+          width: 64.076923076923%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">833</span>/1300
+      </div>
+    </div>    <div id="stat_item_26" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #01AFD6 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #01AFD6;">
+            #26 SOCHI
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #01AFD6 0%, #212121 100%);
+          width: 62.153846153846%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">808</span>/1300
+      </div>
+    </div>    <div id="stat_item_27" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #007DB2 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #007DB2;">
+            #27 KAZAN
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #007DB2 0%, #212121 100%);
+          width: 79.923076923077%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">1039</span>/1300
+      </div>
+    </div>    <div id="stat_item_28" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #82339D 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #82339D;">
+            #28 SAMARA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #82339D 0%, #212121 100%);
+          width: 64.153846153846%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">834</span>/1300
+      </div>
+    </div>    <div id="stat_item_29" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FBB040 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FBB040;">
+            #29 ROSTOV
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FBB040 0%, #212121 100%);
+          width: 78.538461538462%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">1021</span>/1300
+      </div>
+    </div>    <div id="stat_item_30" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #24ACF8 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #24ACF8;">
+            #30 ANAPA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #24ACF8 0%, #212121 100%);
+          width: 59.230769230769%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">770</span>/1300
+      </div>
+    </div>    <div id="stat_item_31" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #93F0A4 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #93F0A4;">
+            #31 EKB
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #93F0A4 0%, #212121 100%);
+          width: 83%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">1079</span>/1300
+      </div>
+    </div>    <div id="stat_item_32" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #A03429 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #A03429;">
+            #32 KRASNODAR
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #A03429 0%, #212121 100%);
+          width: 86.692307692308%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">1127</span>/1300
+      </div>
+    </div>    <div id="stat_item_33" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FFF72D 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FFF72D;">
+            #33 ARZAMAS
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FFF72D 0%, #212121 100%);
+          width: 66.538461538462%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">865</span>/1300
+      </div>
+    </div>    <div id="stat_item_34" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #99D53B 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #99D53B;">
+            #34 NOVOSIB
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #99D53B 0%, #212121 100%);
+          width: 48.307692307692%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">628</span>/1300
+      </div>
+    </div>    <div id="stat_item_35" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #009622 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #009622;">
+            #35 GROZNY
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #009622 0%, #212121 100%);
+          width: 92.692307692308%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">1205</span>/1300
+      </div>
+    </div>    <div id="stat_item_36" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #0597EB 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #0597EB;">
+            #36 SARATOV
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #0597EB 0%, #212121 100%);
+          width: 61.076923076923%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">794</span>/1300
+      </div>
+    </div>    <div id="stat_item_37" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #58E1A5 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #58E1A5;">
+            #37 OMSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #58E1A5 0%, #212121 100%);
+          width: 57.692307692308%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">750</span>/1300
+      </div>
+    </div>    <div id="stat_item_38" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #06E1FF 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #06E1FF;">
+            #38 IRKUTSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #06E1FF 0%, #212121 100%);
+          width: 46.846153846154%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">609</span>/1300
+      </div>
+    </div>    <div id="stat_item_39" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FE0000 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FE0000;">
+            #39 VOLGOGRAD
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FE0000 0%, #212121 100%);
+          width: 67.923076923077%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">883</span>/1300
+      </div>
+    </div>    <div id="stat_item_40" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FFF200 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FFF200;">
+            #40 VORONEZH
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FFF200 0%, #212121 100%);
+          width: 63.076923076923%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">820</span>/1300
+      </div>
+    </div>    <div id="stat_item_41" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #0039A6 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #0039A6;">
+            #41 BELGOROD
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #0039A6 0%, #212121 100%);
+          width: 54.307692307692%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">706</span>/1300
+      </div>
+    </div>    <div id="stat_item_42" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #42AD42 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #42AD42;">
+            #42 MAKHACHKALA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #42AD42 0%, #212121 100%);
+          width: 89.076923076923%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">1158</span>/1300
+      </div>
+    </div>    <div id="stat_item_43" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #8EB0D9 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #8EB0D9;">
+            #43 VLADIKAVKAZ
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #8EB0D9 0%, #212121 100%);
+          width: 62%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">806</span>/1300
+      </div>
+    </div>    <div id="stat_item_44" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #3A95FF 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #3A95FF;">
+            #44 VLADIVOSTOK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #3A95FF 0%, #212121 100%);
+          width: 48.153846153846%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">626</span>/1300
+      </div>
+    </div>    <div id="stat_item_45" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #F0EBC9 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #F0EBC9;">
+            #45 KALININGRAD
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #F0EBC9 0%, #212121 100%);
+          width: 52.461538461538%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">682</span>/1300
+      </div>
+    </div>    <div id="stat_item_46" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FF6B00 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FF6B00;">
+            #46 CHELYABINSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FF6B00 0%, #212121 100%);
+          width: 55.538461538462%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">722</span>/1300
+      </div>
+    </div>    <div id="stat_item_47" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #D99D1C 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #D99D1C;">
+            #47 KRASNOYARSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #D99D1C 0%, #212121 100%);
+          width: 46.461538461538%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">604</span>/1300
+      </div>
+    </div>    <div id="stat_item_48" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #6CBB74 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #6CBB74;">
+            #48 CHEBOKSARY
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #6CBB74 0%, #212121 100%);
+          width: 50.923076923077%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">662</span>/1300
+      </div>
+    </div>    <div id="stat_item_49" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #0184C4 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #0184C4;">
+            #49 KHABAROVSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #0184C4 0%, #212121 100%);
+          width: 41.153846153846%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">535</span>/1300
+      </div>
+    </div>    <div id="stat_item_50" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FFD700 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FFD700;">
+            #50 PERM
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FFD700 0%, #212121 100%);
+          width: 60.153846153846%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">782</span>/1300
+      </div>
+    </div>    <div id="stat_item_51" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #F2B647 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #F2B647;">
+            #51 TULA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #F2B647 0%, #212121 100%);
+          width: 57.307692307692%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">745</span>/1300
+      </div>
+    </div>    <div id="stat_item_52" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #C659EB 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #C659EB;">
+            #52 RYAZAN
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #C659EB 0%, #212121 100%);
+          width: 46.692307692308%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">607</span>/1300
+      </div>
+    </div>    <div id="stat_item_53" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #396797 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #396797;">
+            #53 MURMANSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #396797 0%, #212121 100%);
+          width: 45.769230769231%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">595</span>/1300
+      </div>
+    </div>    <div id="stat_item_54" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #53E295 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #53E295;">
+            #54 PENZA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #53E295 0%, #212121 100%);
+          width: 54.384615384615%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">707</span>/1300
+      </div>
+    </div>    <div id="stat_item_55" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #9E1C00 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #9E1C00;">
+            #55 KURSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #9E1C00 0%, #212121 100%);
+          width: 62.461538461538%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">812</span>/1300
+      </div>
+    </div>    <div id="stat_item_56" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FF007A 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FF007A;">
+            #56 ARKHANGELSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FF007A 0%, #212121 100%);
+          width: 48.230769230769%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">627</span>/1300
+      </div>
+    </div>    <div id="stat_item_57" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #E39012 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #E39012;">
+            #57 ORENBURG
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #E39012 0%, #212121 100%);
+          width: 52.923076923077%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">688</span>/1300
+      </div>
+    </div>    <div id="stat_item_58" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #939393 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #939393;">
+            #58 KIROV
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #939393 0%, #212121 100%);
+          width: 51.615384615385%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">671</span>/1300
+      </div>
+    </div>    <div id="stat_item_59" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #F61A1B 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #F61A1B;">
+            #59 KEMEROVO
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #F61A1B 0%, #212121 100%);
+          width: 42.230769230769%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">549</span>/1300
+      </div>
+    </div>    <div id="stat_item_60" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #44C9F3 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #44C9F3;">
+            #60 TYUMEN
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #44C9F3 0%, #212121 100%);
+          width: 46.153846153846%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">600</span>/1300
+      </div>
+    </div>    <div id="stat_item_61" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #8F00FF 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #8F00FF;">
+            #61 TOLYATTI
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #8F00FF 0%, #212121 100%);
+          width: 50.461538461538%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">656</span>/1300
+      </div>
+    </div>    <div id="stat_item_62" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #D5AF80 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #D5AF80;">
+            #62 IVANOVO
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #D5AF80 0%, #212121 100%);
+          width: 51.692307692308%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">672</span>/1300
+      </div>
+    </div>    <div id="stat_item_63" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #3F6BE9 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #3F6BE9;">
+            #63 STAVROPOL
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #3F6BE9 0%, #212121 100%);
+          width: 53.692307692308%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">698</span>/1300
+      </div>
+    </div>    <div id="stat_item_64" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #EE703E 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #EE703E;">
+            #64 SMOLENSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #EE703E 0%, #212121 100%);
+          width: 47.538461538462%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">618</span>/1300
+      </div>
+    </div>    <div id="stat_item_65" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #63A62E 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #63A62E;">
+            #65 PSKOV
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #63A62E 0%, #212121 100%);
+          width: 42.615384615385%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">554</span>/1300
+      </div>
+    </div>    <div id="stat_item_66" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #26EEBE 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #26EEBE;">
+            #66 BRYANSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #26EEBE 0%, #212121 100%);
+          width: 65.384615384615%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">850</span>/1300
+      </div>
+    </div>    <div id="stat_item_67" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FFEA03 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FFEA03;">
+            #67 OREL
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FFEA03 0%, #212121 100%);
+          width: 47.615384615385%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">619</span>/1300
+      </div>
+    </div>    <div id="stat_item_68" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #D01D0D 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #D01D0D;">
+            #68 YAROSLAVL
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #D01D0D 0%, #212121 100%);
+          width: 46.615384615385%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">606</span>/1300
+      </div>
+    </div>    <div id="stat_item_69" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #797CC7 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #797CC7;">
+            #69 BARNAUL
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #797CC7 0%, #212121 100%);
+          width: 42.615384615385%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">554</span>/1300
+      </div>
+    </div>    <div id="stat_item_70" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #CCD0DA 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #CCD0DA;">
+            #70 LIPETSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #CCD0DA 0%, #212121 100%);
+          width: 49.384615384615%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">642</span>/1300
+      </div>
+    </div>    <div id="stat_item_71" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #B55624 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #B55624;">
+            #71 ULYANOVSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #B55624 0%, #212121 100%);
+          width: 40.692307692308%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">529</span>/1300
+      </div>
+    </div>    <div id="stat_item_72" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #44BFFC 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #44BFFC;">
+            #72 YAKUTSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #44BFFC 0%, #212121 100%);
+          width: 58.384615384615%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">759</span>/1300
+      </div>
+    </div>    <div id="stat_item_73" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #959595 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #959595;">
+            #73 TAMBOV
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #959595 0%, #212121 100%);
+          width: 48.538461538462%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">631</span>/1300
+      </div>
+    </div>    <div id="stat_item_74" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #e0c1a0 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #e0c1a0;">
+            #74 BRATSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #e0c1a0 0%, #212121 100%);
+          width: 45.230769230769%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">588</span>/1300
+      </div>
+    </div>    <div id="stat_item_75" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #F7243A 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #F7243A;">
+            #75 ASTRAKHAN
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #F7243A 0%, #212121 100%);
+          width: 64.153846153846%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">834</span>/1300
+      </div>
+    </div>    <div id="stat_item_76" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #35CA68 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #35CA68;">
+            #76 CHITA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #35CA68 0%, #212121 100%);
+          width: 64.461538461538%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">838</span>/1300
+      </div>
+    </div>    <div id="stat_item_77" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #F1B10D 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #F1B10D;">
+            #77 KOSTROMA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #F1B10D 0%, #212121 100%);
+          width: 40.230769230769%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">523</span>/1300
+      </div>
+    </div>    <div id="stat_item_78" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #F58041 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #F58041;">
+            #78 VLADIMIR
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #F58041 0%, #212121 100%);
+          width: 44.923076923077%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">584</span>/1300
+      </div>
+    </div>    <div id="stat_item_79" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #3032A4 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #3032A4;">
+            #79 KALUGA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #3032A4 0%, #212121 100%);
+          width: 34.615384615385%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">450</span>/1300
+      </div>
+    </div>    <div id="stat_item_80" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #FFC700 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #FFC700;">
+            #80 NOVGOROD
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #FFC700 0%, #212121 100%);
+          width: 45.692307692308%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">594</span>/1300
+      </div>
+    </div>    <div id="stat_item_81" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #984FCF 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #984FCF;">
+            #81 TAGANROG
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #984FCF 0%, #212121 100%);
+          width: 51.153846153846%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">665</span>/1300
+      </div>
+    </div>    <div id="stat_item_82" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #F54141 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #F54141;">
+            #82 VOLOGDA
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #F54141 0%, #212121 100%);
+          width: 39.230769230769%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">510</span>/1300
+      </div>
+    </div>    <div id="stat_item_83" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #84B6FF 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #84B6FF;">
+            #83 TVER
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #84B6FF 0%, #212121 100%);
+          width: 39.769230769231%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">517</span>/1300
+      </div>
+    </div>    <div id="stat_item_84" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #00e9b2 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #00e9b2;">
+            #84 TOMSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #00e9b2 0%, #212121 100%);
+          width: 42.076923076923%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">547</span>/1300
+      </div>
+    </div>    <div id="stat_item_85" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #00A2A4 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #00A2A4;">
+            #85 IZHEVSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #00A2A4 0%, #212121 100%);
+          width: 40.692307692308%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">529</span>/1300
+      </div>
+    </div>    <div id="stat_item_86" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #4F27DE 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #4F27DE;">
+            #86 SURGUT
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #4F27DE 0%, #212121 100%);
+          width: 43.769230769231%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">569</span>/1300
+      </div>
+    </div>    <div id="stat_item_87" class="stat_item" style="
+      background-image: linear-gradient(181deg, #000000 0%, #B7A67E 100%);
+    ">
+      <div class="stat_top">
+        <img src="/img/foot_white.png" alt="" style="opacity: .275;">
+        <p> BLACK RUSSIA
+          <br>
+          <span class="server_title" style="color: #B7A67E;">
+            #87 PODOLSK
+          </span>
+        </p>
+      </div>
+      <div class="stat_line">
+        <span style="
+          background-image: linear-gradient(180deg, #B7A67E 0%, #212121 100%);
+          width: 90.538461538462%;
+        "></span>
+      </div>
+      <div class="stat_cyfre">
+        <span class="active_count">1177</span>/1300
+      </div>
+    </div>  <div class="stat_all">
+    <p> Общий онлайн: </p>
+    <span> 65890 </span>
+  </div>
+      </div><!-- END .stat-container -->
+    </div><!-- END .container -->
+  </section>
+
+
+  <!-- ************************ -->
+<!-- *** СЕКЦИЯ "НОВОСТИ" *** -->
+<!-- ************************ -->
+
+<section class="bottom news-section">
+  <div class="container">
+    <div class="bottom_container">
+      <h2 class="section-heading">
+        Следи за <br>
+        <span>новостями</span>
+      </h2>
+      <div class="bottom_item">
+        <div class="bottom_img">
+          <img src="/img/soc11.svg" alt="">
+        </div>
+        <div class="bottom_text">
+          <p>Мы ВКонтакте</p>
+          <span> </span>
+          <a href="https://vk.com/blackrussia.online" target="_blank">ПЕРЕЙТИ</a>
+        </div>
+      </div>
+      <div class="bottom_item v2">
+        <div class="bottom_img">
+          <img src="/img/soc22.svg" alt="">
+        </div>
+        <div class="bottom_text">
+          <p>Discord канал</p>
+          <span> </span>
+          <a href="https://discord.gg/xPPAA4rAAd" target="_blank">ПЕРЕЙТИ</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>  <footer>
+  <div class="container first-row">
+    <div class="foot_container">
+      <div class="foot_menu">
+        <ul>
+          <li><a href="/">Главная</a></li>
+          <li><a href="https://forum.blackrussia.online/" target="_blank">Форум</a></li>
+          <li><a href="/donate.php">Донат</a></li>
+        </ul>
+        <ul>
+          <li><a href="/play.php?">Как начать играть</a></li>
+          <li><a href="mailto:support_br@blackhub.games">support_br@blackhub.games</a></li>
+        </ul>
+      </div>
+      <a href="/" class="logo">
+        <img src="/img/logo.png" alt="">
+        <p> BLACK
+          <span>RUSSIA</span>
+        </p>
+      </a>
+      <a href="#" class="foot_dev">
+        <img src="/img/pay_logo.svg?v=2" height="84" width="300" alt="">
+      </a>
+      <div class="foot_link mob">
+        <a class="" href="/oferta.php" target="_blank">Договор оферты</a>
+        <a class="" href="/politica.php" target="_blank">Политика конфиденциальности</a>
+        <a class="" href="/documents.html" target="_blank">Документация</a>
+      </div>
+    </div>
+    <div class="disclaimer">
+      <p>
+          Игра бесплатная и не требует внесения денежных средств. Однако в игре предусмотрена возможность приобретения
+          внутриигровых предметов, валюты (ВС), игровых статусов для наиболее разнообразного геймплея на наших серверах
+      </p>
+    </div>
+  </div>
+
+  <div class="foot2 second-row">
+    <div class="container">
+      <div class="foot_container">
+        <p>© ВСЕ ПРАВА ЗАЩИЩЕНЫ ООО&nbsp;"БЛЕКХАБ&nbsp;ГЕЙМС"</p>
+          <a class="mob_hidden" href="/documents.html" target="_blank">Документация</a>
+          <a class="mob_hidden" href="/oferta.php" target="_blank">Договор оферты</a>
+          <a class="mob_hidden" href="/politica.php" target="_blank">Политика конфиденциальности</a>
+          <a class="mail_foot mob" href="mailto:support_br@blackhub.games">support_br@blackhub.games</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  <!-- ******************** -->
+  <!-- *** ДОП. СКРИПТЫ *** -->
+  <!-- ******************** -->
+
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script type="text/javascript" src="/js/lightbox.js"></script>
+  <script type="text/javascript" src="/js/lity.js"></script>
+
+
+  <script type="text/javascript" src="/js/jquery.reveal.js"></script>
+
+  <script>
+  $('.mobile_menu').on('click', function(e) {
+    e.preventDefault();
+    $(this).toggleClass('menu_btn_active');
+    $("body").toggleClass('open');
+    $('.menu').toggleClass('opened');
+  });
+</script>
+  <script>
+    $('.video1').parent().click(function() {
+      if ($(this).children(".video1").get(0).paused) {
+        $(this).children(".video1").get(0).play();
+        $(this).children(".playpause").fadeOut();
+      } else {
+        $(this).children(".video1").get(0).pause();
+        $(this).children(".playpause").fadeIn();
+      }
+    });
+  </script>
+
+  <script async src="https://code.jivo.ru/widget/ilGVF7VY25"></script>
+</body>
+</html>
